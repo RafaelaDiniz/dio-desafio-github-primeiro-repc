@@ -1,12 +1,6 @@
-
-link para sintaxe markdown 
-https://www.markdownguide.org/basic-syntax/
-
-https://markdown.net.br/sintaxe-basica/
-
 # *Comandos Git*
- 
- ## *Git status*
+
+## *Git status*
 
 Exibi as condições do diretório de trabalho e da área de staging.
 
@@ -15,9 +9,10 @@ Em outras palavras, ele permite inspecionar quais alterações foram despreparad
 Ao executar o comando git status, é possível obter o status completo do repositório (diretório onde os arquivos do seu projeto serão armazenados).
 
 ## *s = !git status -s*
+
 Mas ao adotar o parâmetro -s no final do atalho criado, cria-se um status resumido, resultando em maior dinamismo.
 
-# Git Coomits
+## Git Commits
 
 Commit = conjunto de alterações feitas em um projeto. 
 
@@ -48,22 +43,21 @@ Também utilizaremos a opção de utilizar cores diferentes para cada coluna, o 
 
 Ex.: l = !git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
 
-
-# *Git Init*
+## *Git Init*
 
 Cria um repositório vazio ou transforma uma pasta que você já tem e que não está com controle de versão em um repositório
 
-# *Git clone*
+## *Git clone*
 
 baixar o código-fonte existente de um repositório remoto 
 
-HTTPS : git clone <https://url-do-link> 
+HTTPS : *git clone <https://url-do-link>*
 
 Se você quiser desvincular a sua cópia do original, rode o comando abaixo:
 
-git remote rm origin
+*git remote rm origin*
 
-# *Git branch*
+## *Git branch*
 
 Branch pode ser usado para três finalidades diferentes: criar, listar e excluir ramificações. Veja, na sequência, como trabalhar com cada uma delas.
 Para criar uma nova branch local, digite:
@@ -82,7 +76,7 @@ para deletar uma *branch
 
 git branch -d <nome-da-branch>
 
-# *Git checkout*
+## *Git checkout*
 
 o principal objetivo do git checkout é ajudar você a mudar de uma branch para outra ou então verificar arquivos e commits:
 
@@ -92,11 +86,11 @@ Criar e ir para um branch de uma vez só:
 
 git checkout -b <nome-da-branch>
 
-# *Git diff*
+## *Git diff*
 
 sua execução realiza uma função de comparação nas fontes de dados Git e mostra quais linhas foram adicionadas e removidas.
 
-# *Git add*
+## *Git add*
 
 Inclui as alterações de um arquivo em nosso próximo commit.
 
@@ -110,7 +104,7 @@ Para adicionar, de uma vez, todos os arquivos modificados:
 
 Vale lembrar que o comando git add não altera o repositório e as alterações não são salvas até usarmos o git commit.
 
-# *Git Push*
+## *Git Push*
 
 envia as alterações para o servidor remoto:
 
@@ -119,7 +113,7 @@ No entanto, se seu branch for criado recentemente, você também precisará faze
 
 *git push -u origin <nome-do-branch>*
 
-# *Git pull*
+## *Git pull*
 
 usado para obter atualizações do repositório remoto. 
 
@@ -127,7 +121,7 @@ recebe as atualizações do repositório remoto (git fetch) e aplica imediatamen
 
 *git pull <remote>*
 
-# *Git Revert*
+## *Git Revert*
 
 Uma maneira segura de desfazer os commits é usando git revert.
 
@@ -137,13 +131,13 @@ O número do hash pode ser conseguido pelo comando:
 
 *git log -- oneline*
 
-# *Git merge*
+## *Git merge*
 
 Mescla as branches
 
 *git merge <nome-da-branch>*
 
-# *Git stash*
+## *Git stash*
 
 arquiva as alterações que você fez na cópia de trabalho durante um determinado período para que seja possível retornar a ela mais tarde.
 
@@ -158,3 +152,5 @@ Para ver todas as stashes que você guardou, use:
 aplicar stashes antigos, especificando:
 
 *it stash apply stash@{2}.*
+
+
