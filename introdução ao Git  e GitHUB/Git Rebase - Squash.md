@@ -56,7 +56,10 @@ para confirmar suas alterações e sair do modo interativo
 
 *git log --oneline*
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 
 >>>>>>> 238d72d (Add files via upload)
+=======
+>>>>>>> 55202b7 (atualização do arquivo)
