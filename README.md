@@ -16,4 +16,5 @@
 - [4- Git Rebase - Squash](https://github.com/RafaelaDiniz/dio-desafio-github-primeiro-repc/blob/main/introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHUB/Git%20Rebase%20-%20Squash.md)
 - [5- Fundamentos Java](https://github.com/RafaelaDiniz/dio-desafio-github-primeiro-repc/blob/main/Java/Java%20Fundamentos.md)
 
-![Imagem logo Java](/Imagens/logo_java.png)(https://www.java.com/pt-BR/) ![[Imagem logo git](/Imagens/logo_git.jpg)]_(https://git-scm.com/)
+![Imagem logo Java](/Imagens/logo_java.png)(https://www.java.com/pt-BR/) 
+![[Imagem logo git](/Imagens/logo_git.jpg)](https://git-scm.com/)
