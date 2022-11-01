@@ -24,7 +24,7 @@ ou
 
 ## Escolha a opção de interação com seu *commit*
 
-[url=https://ibb.co/xF9LRGh][img]https://i.ibb.co/sWxRMQj/lista-rebase.png[/img][/url]
+![](C:\Users\rafae\Documents\DEV\GIT\DIO\dio-desafio-github-primeiro-repc\Imagens\lista_rebase.png)
 
 ## Use *Squash* ou *Fixup*
 
