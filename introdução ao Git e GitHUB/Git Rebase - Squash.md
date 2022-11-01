@@ -24,7 +24,7 @@ ou
 
 ## Escolha a opção de interação com seu *commit*
 
-![Imagem lista rebase](.\..\Imagens\lista_rebase.png)
+![Imagem lista rebase](./../Imagens/lista_rebase.png)
 
 ## Use *Squash* ou *Fixup*
 
@@ -38,13 +38,13 @@ Usa o commit combinando com o anterior mas descarta a mensagem de log;
 
 ### Substitua de Pick para *F* ou *S*
 
-![Imagem commit fixup](.\..\Imagens\commit_fixup.png)
+![Imagem commit fixup](./../Imagens/commit_fixup.png)
 
 ## Deixe uma nova mensagem no *Commit*
 
 Substitua *pick* por *r* e edite mensagem no *commit*
 
-![Imagem commit rename](.\..\Imagens\commit_rename.png)
+![Imagem commit rename](./../Imagens/commit_rename.png)
 # Salve sua alterações
 
  basta apertar a tecla *ESC* `e em seguida o comando *:w / :q* 
