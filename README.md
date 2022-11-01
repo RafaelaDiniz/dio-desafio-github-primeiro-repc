@@ -17,4 +17,4 @@
 - [5- Fundamentos Java](https://github.com/RafaelaDiniz/dio-desafio-github-primeiro-repc/blob/main/Java/Java%20Fundamentos.md)
 
 ![Imagem logo Java](/Imagens/logo_java.png)(https://www.java.com/pt-BR/) 
-![Imagem logo git][(/Imagens/logo_git.jpg)(https://git-scm.com/)]
+![Imagem logo git](/Imagens/logo_git.jpg)_(https://git-scm.com/)
