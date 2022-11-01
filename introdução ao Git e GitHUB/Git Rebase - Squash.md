@@ -24,7 +24,7 @@ ou
 
 ## Escolha a opção de interação com seu *commit*
 
-![Imagem lista rebase](.\..\Imagens\lista_rebase.png)
+![Imagem lista rebase](..\..\Imagens\lista_rebase.png)
 
 ## Use *Squash* ou *Fixup*
 
