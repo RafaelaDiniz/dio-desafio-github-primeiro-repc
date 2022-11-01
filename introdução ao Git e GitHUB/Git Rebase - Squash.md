@@ -20,11 +20,11 @@ ou
 
 *HEAD* = referente ao *commit* atual
 
-*~4~* = Até qual *commit* quero modificar (o número 4 é apenas um exemplo)
+*~4* = Até qual *commit* quero modificar (o número 4 é apenas um exemplo)
 
 ## Escolha a opção de interação com seu *commit*
 
-![[Imagem lista rebase](/Imagens/lista_rebase.png)](/Imagens/lista_rebase.png)
+![Imagem lista rebase](.\..\Imagens\lista_rebase.png)
 
 ## Use *Squash* ou *Fixup*
 
@@ -38,14 +38,13 @@ Usa o commit combinando com o anterior mas descarta a mensagem de log;
 
 ### Substitua de Pick para *F* ou *S*
 
-[url=https://imgbb.com/][img]https://i.ibb.co/60Jd3ZL/1-6-A0y666-m-P-VOa4hl6t0-RA.png[/img][/url]
+![Imagem commit fixup](.\..\Imagens\commit_fixup.png)
 
 ## Deixe uma nova mensagem no *Commit*
 
 Substitua *pick* por *r* e edite mensagem no *commit*
 
-[url=https://imgbb.com/][img]https://i.ibb.co/gvV0dMx/1-ll-ZS2g-I0lr-Mf1-Jnvrbnpb-A.png[/img][/url]
-
+![Imagem commit rename](.\..\Imagens\commit_rename.png)
 # Salve sua alterações
 
  basta apertar a tecla *ESC* `e em seguida o comando *:w / :q* 
