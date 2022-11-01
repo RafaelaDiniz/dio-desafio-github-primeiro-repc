@@ -1,4 +1,4 @@
-![Imagem logo git](./../Imagens/logo_git.png) 
+![Imagem logo git](./../Imagens/logo_git.png)
 # *Comandos Git*
 
 ## *Git status*
