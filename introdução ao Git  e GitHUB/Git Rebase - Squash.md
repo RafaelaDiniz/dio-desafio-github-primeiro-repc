@@ -24,7 +24,7 @@ ou
 
 ## Escolha a opção de interação com seu *commit*
 
-![](C:\Users\rafae\Downloads\lista%20rebase.png)
+![](C:\Users\rafae\Documents\DEV\GIT\DIO\dio-desafio-github-primeiro-repc\introdução%20ao%20Git%20%20e%20GitHUB\Imagens\lista%20rebase.png)
 
 ## Use *Squash* ou *Fixup*
 
@@ -38,28 +38,21 @@ Usa o commit combinando com o anterior mas descarta a mensagem de log;
 
 ### Substitua de Pick para *F* ou *S*
 
-![](C:\Users\rafae\Downloads\1_6A0y666_mP_VOa4hl6t0RA.png)
+![](C:\Users\rafae\Documents\DEV\GIT\DIO\dio-desafio-github-primeiro-repc\introdução%20ao%20Git%20%20e%20GitHUB\Imagens\1_6A0y666_mP_VOa4hl6t0RA.png)
 
 ## Deixe uma nova mensagem no *Commit*
 
 Substitua *pick* por *r* e edite mensagem no *commit*
 
-![](C:\Users\rafae\Downloads\1_llZS2gI0lrMf1JnvrbnpbA.png)
+![](C:\Users\rafae\Documents\DEV\GIT\DIO\dio-desafio-github-primeiro-repc\introdução%20ao%20Git%20%20e%20GitHUB\Imagens\1_llZS2gI0lrMf1JnvrbnpbA.png)
 
 # Salve sua alterações
 
- basta apertar a tecla *ESC* `e em seguida o comando *:wq* 
+ basta apertar a tecla *ESC* `e em seguida o comando *:w / :q* 
 
 para confirmar suas alterações e sair do modo interativo
 
 ## Veja as suas alterações
 
 *git log --oneline*
-<<<<<<< HEAD
-<<<<<<< HEAD
 =======
-
-
->>>>>>> 238d72d (Add files via upload)
-=======
->>>>>>> 55202b7 (atualização do arquivo)
