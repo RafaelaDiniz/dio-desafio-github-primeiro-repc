@@ -5,9 +5,13 @@
           Bootcamp Potência Tech powered by iFood - Java Beginners.
 
 
-![Imagem logo git](/Imagens/logo_git.jpg)    ![Imagem logo git](/Imagens/logo_github.jpg)
 
 ## Links úteis
 
-- [Sintaxe basica Markdown 1_](https://www.markdownguide.org/basic-syntax/)
-- [Sintaxe basica Markdown 2_](https://markdown.net.br/sintaxe-basica/)
+- [1- Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
+- [2- Sintaxe basica Markdown](https://markdown.net.br/sintaxe-basica/)
+- [3- Comandos Básicos do Git](https://github.com/RafaelaDiniz/dio-desafio-github-primeiro-repc/blob/main/introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHUB/Comandos%20basicos%20Git.md)
+- [4- Git Rebase - Squash](https://github.com/RafaelaDiniz/dio-desafio-github-primeiro-repc/blob/main/introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHUB/Git%20Rebase%20-%20Squash.md)
+- [5- Fundamentos Java](https://github.com/RafaelaDiniz/dio-desafio-github-primeiro-repc/blob/main/Java/Java%20Fundamentos.md)
+
+![Imagem logo git](/Imagens/logo_git.jpg)    ![Imagem logo git](/Imagens/logo_github.jpg)
