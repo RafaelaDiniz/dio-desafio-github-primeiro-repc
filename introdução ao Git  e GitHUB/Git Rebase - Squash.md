@@ -55,5 +55,3 @@ para confirmar suas alterações e sair do modo interativo
 ## Veja as suas alterações
 
 *git log --oneline*
-
-
