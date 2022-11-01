@@ -24,7 +24,7 @@ ou
 
 ## Escolha a opção de interação com seu *commit*
 
-![](C:\Users\rafae\Documents\DEV\GIT\DIO\dio-desafio-github-primeiro-repc\Imagens\lista_rebase.png)
+![[Imagem lista rebase](..\Imagens\lista_rebase.png)]_(..\Imagens\lista_rebase.png)
 
 ## Use *Squash* ou *Fixup*
 
