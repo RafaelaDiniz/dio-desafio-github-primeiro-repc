@@ -8,6 +8,7 @@
 
 - [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Sintaxe basica Markdown](https://markdown.net.br/sintaxe-basica/)
-![Imagem logo git](./../Imagens/logo_git.jpg)
-![Imagem logo git](./../Imagens/logo_github.jpg)
+
+![Imagem logo git](/Imagens/logo_git.jpg)
+![Imagem logo git](/Imagens/logo_github.jpg)
 
