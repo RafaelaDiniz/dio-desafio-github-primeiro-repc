@@ -28,6 +28,7 @@ ou
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Imagem lista rebase](..\..\Imagens\lista_rebase.png)
 =======
 ![Imagem lista rebase](.\..\Imagens\lista_rebase.png)
@@ -41,6 +42,12 @@ ou
 =======
 ![Imagem lista rebase](./../Imagens/lista_rebase.png)
 >>>>>>> 02020a6 (upimage)
+=======
+![Imagem lista rebase](..\..\Imagens\lista_rebase.png)
+=======
+![Imagem lista rebase](./../Imagens/lista_rebase.png)
+>>>>>>> 7172e988507a2bbe58b98225b8d8ec57eca4920f
+>>>>>>> 9d87ec21e5c679c6f4601bcc7b7a69b331241428
 
 ## Use *Squash* ou *Fixup*
 
