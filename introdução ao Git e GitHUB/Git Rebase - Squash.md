@@ -24,30 +24,7 @@ ou
 
 ## Escolha a opção de interação com seu *commit*
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-![Imagem lista rebase](..\..\Imagens\lista_rebase.png)
-=======
-![Imagem lista rebase](.\..\Imagens\lista_rebase.png)
->>>>>>> 815e43d (atualiza link imagem)
-=======
-![[Imagem lista rebase](/Imagens/lista_rebase.png)](/Imagens/lista_rebase)
->>>>>>> 9b7288d (atualiza link imagem)
-=======
-![Imagem lista rebase](.\..\Imagens\lista_rebase.png)
->>>>>>> 79d1e26 (imagens)
-=======
 ![Imagem lista rebase](./../Imagens/lista_rebase.png)
->>>>>>> 02020a6 (upimage)
-=======
-![Imagem lista rebase](..\..\Imagens\lista_rebase.png)
-=======
-![Imagem lista rebase](./../Imagens/lista_rebase.png)
->>>>>>> 7172e988507a2bbe58b98225b8d8ec57eca4920f
->>>>>>> 9d87ec21e5c679c6f4601bcc7b7a69b331241428
 
 ## Use *Squash* ou *Fixup*
 
