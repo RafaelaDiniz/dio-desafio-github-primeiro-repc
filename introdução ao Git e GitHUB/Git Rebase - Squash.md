@@ -25,10 +25,14 @@ ou
 ## Escolha a opção de interação com seu *commit*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Imagem lista rebase](..\..\Imagens\lista_rebase.png)
 =======
 ![Imagem lista rebase](.\..\Imagens\lista_rebase.png)
 >>>>>>> 815e43d (atualiza link imagem)
+=======
+![[Imagem lista rebase](/Imagens/lista_rebase.png)](/Imagens/lista_rebase)
+>>>>>>> 9b7288d (atualiza link imagem)
 
 ## Use *Squash* ou *Fixup*
 
