@@ -19,6 +19,8 @@
 - [1- Anatomia das classes](https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes)
 - [2- Tipos e variáveis](https://glysns.gitbook.io/java-basico/sintaxe/variaveis)
 - [3- Operadores](https://glysns.gitbook.io/java-basico/sintaxe/operadores)
+- [4- Métodos](https://glysns.gitbook.io/java-basico/sintaxe/metodos)
+
 
 
 
