@@ -19,9 +19,10 @@
 - [1- Anatomia das classes](https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes)
 - [2- Tipos e variáveis](https://glysns.gitbook.io/java-basico/sintaxe/variaveis)
 - [3- Operadores](https://glysns.gitbook.io/java-basico/sintaxe/operadores)
-- [4- Métodos](https://glysns.gitbook.io/java-basico/sintaxe/metodos)
-
-
+- [5- Escopo](https://glysns.gitbook.io/java-basico/sintaxe/escopo)
+- [6- Palavras Reservadas](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)
+- [7- Documentação](https://glysns.gitbook.io/java-basico/sintaxe/documentacao)
+- [8- Terminal e Argumentos](https://glysns.gitbook.io/java-basico/sintaxe/terminal-e-argumentos)
 
 
 [![Imagem logo java](Imagens/logo_java.png)](https://www.java.com/pt-BR)
