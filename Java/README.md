@@ -2,7 +2,7 @@
  #
 
  # Java Básico
- [![Imagem logo java](/logo-java-s/logo_java.png)](https://www.java.com/pt-BR)
+[![Imagem logo java](./logo-java-s/logo_java.png)](https://www.java.com/pt-BR)
 
 ### 📚 Repositório criado para exercitar o aprendizado do curso Java Beginners da Digital Innovation One - DIO
           *Bootcamp Potência Tech powered by iFood - Java Beginners.*
